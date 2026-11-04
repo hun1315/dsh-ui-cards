@@ -1,0 +1,13 @@
+# 依赖
+node_modules/
+
+# 本地调试残留（CDP 脚本 + 截图，约 30MB，不进仓库也不进 npm 包 —— package.json 的 files 已隔离）
+_probe/
+
+# 备份
+_bak-*/
+
+# 杂项
+*.log
+.DS_Store
+Thumbs.db

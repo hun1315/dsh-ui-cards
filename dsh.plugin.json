@@ -1,0 +1,12 @@
+{
+  "name": "dsh-ui-cards",
+  "description": "UI验牌：右上角「⋯」改造成卡牌式插件扩展坞，插件前端 UI 收容成卡牌，点卡即开",
+  "version": "0.1.0",
+  "entry": {
+    "name": "dsh-ui-cards",
+    "inject": ["slots"]
+  },
+  "client": {
+    "platform": "web"
+  }
+}

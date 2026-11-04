@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "UI Cards",
+    "description": "Turns the top-right \"more actions\" button into a card-style plugin dock: a translucent card rail slides down from the top, plugin front-end UI is stowed into cards, and clicking a card opens it. Card styling is yours to change."
+  }
+}
