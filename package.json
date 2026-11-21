@@ -1,7 +1,7 @@
 {
   "name": "dsh-ui-cards",
-  "description": "UI验牌：把 DSH 右上角「⋯ 更多操作」改造成卡牌式插件扩展坞，插件前端 UI 收容成可滑动的卡牌，点卡即开",
-  "version": "0.1.0",
+  "description": "UI验牌：把 DSH 右上角「⋯ 更多操作」改造成卡牌式插件扩展坞——插件前端 UI 收容成可滑动卡牌，点卡即开；带皮肤系统、换牌音效与悬浮注释。",
+  "version": "0.2.0",
   "license": "MIT",
   "type": "module",
   "main": "lib/index.js",
@@ -48,5 +48,27 @@
     "react": {
       "optional": true
     }
+  },
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "ui",
+    "cards",
+    "dock",
+    "carousel",
+    "tarot"
+  ],
+  "author": "hun1315",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hun1315/dsh-ui-cards.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hun1315/dsh-ui-cards/issues"
+  },
+  "homepage": "https://github.com/hun1315/dsh-ui-cards#readme",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
   }
 }
